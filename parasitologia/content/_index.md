@@ -1,16 +1,17 @@
 ---
-title: "Parasitologia"
+title: "Curso de Parasitologia Clínica"
+bookCollapseSection: true
 ---
 
-Bem-vindo ao material de **Parasitologia**.
+# 🧬 Curso de Parasitologia Clínica
 
-## O que é Parasitologia?
-A parasitologia estuda os **parasitos** (organismos que vivem às custas de outro), as doenças que eles causam e como prevenir e diagnosticar.
+Material didático voltado para **Técnicos em Análises Clínicas**.
 
-## Principais parasitoses
-- **Giardíase** (Giardia duodenalis)
-- **Amebíase** (Entamoeba histolytica)
-- **Ascaridíase** (Ascaris lumbricoides)
-- **Enterobíase** (Enterobius vermicularis)
-- **Ancilostomíase** (Ancylostoma/Necator)
-- **Esquistossomose** (Schistosoma mansoni)
+---
+
+## 📚 Estrutura do Curso
+
+- Unidade 1 – Introdução
+- Unidade 2 – Protozoários
+- Unidade 3 – Helmintos
+- Unidade 4 – Métodos Diagnósticos

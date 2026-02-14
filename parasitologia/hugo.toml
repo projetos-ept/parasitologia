@@ -1,6 +1,6 @@
 baseURL = 'https://projetos-ept.github.io/parasitologia/'
 languageCode = 'pt-br'
-title = 'Curso de Parasitologia'
+title = 'Parasitologia Clínica'
 theme = 'book'
 publishDir = 'docs'
 
@@ -10,4 +10,5 @@ enableEmoji = true
 [params]
   BookTheme = 'light'
   BookSection = '*'
-  dateFormat = "02/01/2006"
+  BookToC = true
+  BookMenuBundle = '/'
