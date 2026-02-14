@@ -1,0 +1,6 @@
+[submodule "imunologia/themes/blowfish"]
+	path = imunologia/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+[submodule "parasitologia/themes/book"]
+	path = parasitologia/themes/book
+	url = https://github.com/alex-shpak/hugo-book

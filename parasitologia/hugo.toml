@@ -1,0 +1,13 @@
+baseURL = 'https://projetos-ept.github.io/parasitologia/'
+languageCode = 'pt-br'
+title = 'Curso de Parasitologia'
+theme = 'book'
+publishDir = 'docs'
+
+defaultContentLanguage = 'pt-br'
+enableEmoji = true
+
+[params]
+  BookTheme = 'light'
+  BookSection = '*'
+  dateFormat = "02/01/2006"
